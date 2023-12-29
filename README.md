@@ -1,0 +1,5 @@
+- Simple To DO list project
+- made using collab of java script, HTML and CSS
+- uses dates to store the task
+- add or delete task
+- added animation of zoom and pan
